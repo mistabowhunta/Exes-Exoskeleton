@@ -44,3 +44,4 @@ Future iterations of this platform would require CNC-machined aluminum mounting 
 * `code.py`: The main execution loop, utilizing a thread-safe Queue to handle rapid MQTT sensor telemetry without OS process fork-bombing.
 * `/src/controllers`: Modularized logic for Audio, Sensors, Servos, and Error handling.
 * `/src/lib`: Hardware abstraction, environment configuration, and dynamic calibration math.
+* `/src/images`: Main image.
