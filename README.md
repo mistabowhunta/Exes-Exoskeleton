@@ -1,4 +1,4 @@
-# Exes: Voice-Activated Distributed Exoskeleton (Archived Prototype)
+# Project Exes: Voice-Activated Distributed Exoskeleton (Archived Prototype)
 
 ## Overview
 **Exes** is an archived hardware and software R&D project focused on building a high-torque, voice-controlled robotic exoskeleton. 
