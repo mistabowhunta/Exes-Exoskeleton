@@ -1,4 +1,4 @@
-# Project Exes: Voice-Activated Distributed Exoskeleton (Archived Prototype)
+# Exes: Voice-Activated Distributed Exoskeleton (Archived Prototype)
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center; width: 45%;">
